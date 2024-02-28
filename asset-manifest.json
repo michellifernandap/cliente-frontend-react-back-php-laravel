@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cliente-frontend-react-back-php-laravel/static/css/main.a2a4b4f0.css",
+    "main.js": "/cliente-frontend-react-back-php-laravel/static/js/main.accd1a98.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/cliente-frontend-react-back-php-laravel/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logosolo.png": "/cliente-frontend-react-back-php-laravel/static/media/logosolo.5c6dd3dd671f68ee7b70.png",
+    "index.html": "/cliente-frontend-react-back-php-laravel/index.html",
+    "main.a2a4b4f0.css.map": "/cliente-frontend-react-back-php-laravel/static/css/main.a2a4b4f0.css.map",
+    "main.accd1a98.js.map": "/cliente-frontend-react-back-php-laravel/static/js/main.accd1a98.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/cliente-frontend-react-back-php-laravel/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a4b4f0.css",
+    "static/js/main.accd1a98.js"
+  ]
+}
